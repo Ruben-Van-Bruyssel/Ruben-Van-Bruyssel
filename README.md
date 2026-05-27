@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Ruben Van Bruyssel
-- 👀 I’m interested in Basketball and fitness
-- 🌱 I’m currently learning TI at hogent
-- 📫 How to reach me ruben.vanbruyssel@student.hogent.be
+
 
 <!---
 Ruben-Van-Bruyssel/Ruben-Van-Bruyssel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
